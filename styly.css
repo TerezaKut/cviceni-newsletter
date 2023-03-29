@@ -40,3 +40,8 @@ button {
 input {
 	width: 11em;
 }
+
+.cerveny_ramecek {
+	border: 5px solid red;
+	
+}
